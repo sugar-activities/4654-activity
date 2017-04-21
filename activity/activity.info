@@ -1,0 +1,8 @@
+[Activity]
+name = Music Keyboard
+activity_version = 8
+bundle_id = org.sugarlabs.MusicKeyboard
+exec = sugar-activity activity.SimplePianoActivity
+icon = activity-simplepiano
+license = GPLv2+
+summary = Play music with this piano keyboard.
